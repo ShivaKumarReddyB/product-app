@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "price": 699,
+    "description": "6.1-inch display, dual camera, 5G-enabled smartphone with 128GB storage."
+  },
+  {
+    "id": 2,
+    "name": "Gaming Laptop",
+    "price": 1299,
+    "description": "15.6-inch high refresh rate screen, RTX 3060 GPU, 16GB RAM, 512GB SSD."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "price": 199,
+    "description": "Noise-cancelling over-ear headphones with 30-hour battery life."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 249,
+    "description": "Fitness tracking, heart rate monitor, GPS, and smartphone notifications."
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 99,
+    "description": "Portable waterproof speaker with deep bass and 12-hour playtime."
+  },
+  {
+    "id": 6,
+    "name": "4K Monitor",
+    "price": 399,
+    "description": "27-inch UHD monitor with HDR support, great for design and gaming."
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "price": 149,
+    "description": "RGB backlit keyboard with customizable keys and tactile switches."
+  },
+  {
+    "id": 8,
+    "name": "Drone with Camera",
+    "price": 599,
+    "description": "4K aerial drone with GPS, image stabilization, and 30-minute flight time."
+  },
+  {
+    "id": 9,
+    "name": "External SSD",
+    "price": 129,
+    "description": "1TB USB-C external solid state drive with high-speed data transfer."
+  },
+  {
+    "id": 10,
+    "name": "Tablet",
+    "price": 499,
+    "description": "10.2-inch tablet with stylus support and long-lasting battery life."
+  },
+  {
+    "id": 11,
+    "name": "Smart Home Hub",
+    "price": 89,
+    "description": "Voice assistant-powered hub to control smart lights and devices."
+  },
+  {
+    "id": 12,
+    "name": "Fitness Tracker",
+    "price": 59,
+    "description": "Lightweight band with step counting, sleep tracking, and call alerts."
+  },
+  {
+    "id": 13,
+    "name": "Wireless Charger",
+    "price": 39,
+    "description": "Fast wireless charging pad compatible with iOS and Android devices."
+  },
+  {
+    "id": 14,
+    "name": "Webcam",
+    "price": 79,
+    "description": "1080p HD webcam with built-in microphone and low-light correction."
+  },
+  {
+    "id": 15,
+    "name": "Graphic Drawing Tablet",
+    "price": 269,
+    "description": "Digital pen tablet with pressure sensitivity and customizable buttons."
+  }
+]
